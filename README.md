@@ -1,4 +1,4 @@
-Detect accounts that are username and password are same
+Detect accounts that have identical username and password in active directory
 
 Pentest çalışmalarında en sık gördüğümüz senaryolardan biri de yanalda ilerleyebilmek için farklı bir hesaba ulaşmaya çalışmaktır.
 Sadece kullanıcı adı ve parolası aynı olan hesapları bulmak için keşif çalışması yapan scriptler mevcut.
