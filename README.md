@@ -1,4 +1,4 @@
-Detect Username and Password are same
+Detect Username and Password are same accounts
 
 Pentest çalışmalarında en sık gördüğümüz senaryolardan biri de yanalda ilerleyebilmek için farklı bir hesaba ulaşmaya çalışmaktır.
 Sadece kullanıcı adı ve parolası aynı olan hesapları bulmak için keşif çalışması yapan scriptler mevcut.
